@@ -1,0 +1,2 @@
+Type	Enabled	Quantity	SRC	Component	OITitle	Name	Behavior	CycleTime	Policy	Tags	SpawnTime	Location	Position	Original		Strength	Unit Groupings	Low Density Supply	
+SupplyRecord	TRUE	1	43573RQ90	NG	AIR    SPT EQP MNT	AUTO	AUTO	0	AUTO	AUTO	0	AUTO	AUTO	TRUE		05   	6D		

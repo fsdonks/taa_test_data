@@ -1,0 +1,2 @@
+How do we test this thing if I can't read the input data very well? Prob lends itself to automated testing and a having a good understanding
+of the input data.

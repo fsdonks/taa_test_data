@@ -1,0 +1,14 @@
+Major:
+FORGE demand start day needs to be specified by vignette mapping.
+
+What should the duration of the last FORGE demand be?  Defaults to
+0 duration right now.  Is this what we want it to do?
+
+Related to last:  In the complexest_trial_n_error test, the duration
+of a next to last FORGE demand is 0.  This looks wrong.
+
+
+Minor:
+"Created demand file" path is wrong.  Doesn't include filename before _DEMAND.txt
+
+All blank quantities for an SRC in FORGE data will cause an error, but this type of record is unlikely to exist in the FORGE output.
